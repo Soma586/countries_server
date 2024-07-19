@@ -56,7 +56,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    'http://country-roul.s3-website.us-east-2.amazonaws.com/'
+    'http://country-roul.s3-website.us-east-2.amazonaws.com'
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
